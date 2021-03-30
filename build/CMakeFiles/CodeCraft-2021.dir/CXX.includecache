@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cong/Nutstore Files/我的坚果云/python/anaconda/华为软件精英赛/SDK/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp
+iostream
+-
+string
+-
+unordered_map
+-
+vector
+-
+time.h
+-
+algorithm
+-
+assert.h
+-
+
